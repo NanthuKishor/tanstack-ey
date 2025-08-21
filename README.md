@@ -1,6 +1,6 @@
 # Tanstack Application (EY)
 
-This Application is bootstrapped with Vite, using the React-Javascript template. It showcases a mix blend of Tanstack packages like Tanstack-Query, Tanstack-Table, Tanstack-Router.
+This Application is bootstrapped with Vite, using the React-Javascript template. It showcases a mix blend of Tanstack packages like `Tanstack-Query`, `Tanstack-Table`, `Tanstack-Router`.
 
 ## Table of Contents
 
