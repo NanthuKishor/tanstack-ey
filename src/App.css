@@ -1,0 +1,55 @@
+#root {
+  padding: 2rem;
+}
+
+.table-responsive {
+  width: 90vw;
+  height: 70vh;
+}
+
+.character-image {
+  width: 90px;
+  border-radius: 50%;
+}
+.sl-no {
+  width: 50px !important;
+}
+
+.table-body {
+  height: 70vh !important;
+  overflow-y: auto;
+}
+th {
+  color: white !important;
+  background-color: #212529 !important;
+}
+
+.table-container {
+  max-height: 400px;
+  overflow-y: auto;
+  width: 100%;
+}
+.fixed-header-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+.fixed-header-table thead th {
+  position: sticky;
+  top: 0;
+  background: white;
+  z-index: 10;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.margin-left-88 {
+  margin-left: 88%;
+}
+
+.refetch-btn {
+  width: 137px !important;
+}
